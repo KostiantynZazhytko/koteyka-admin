@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_components_sizes",
+  "info": {
+    "name": "size",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "width": {
+      "type": "decimal"
+    },
+    "depth": {
+      "type": "decimal"
+    },
+    "height": {
+      "type": "decimal"
+    }
+  }
+}
