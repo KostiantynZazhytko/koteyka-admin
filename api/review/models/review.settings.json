@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reviews",
+  "info": {
+    "name": "review"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "date": {
+      "type": "date"
+    },
+    "author": {
+      "type": "string"
+    }
+  }
+}
